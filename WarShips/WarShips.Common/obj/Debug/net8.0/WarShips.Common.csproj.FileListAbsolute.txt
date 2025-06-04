@@ -1,0 +1,14 @@
+C:\Program1\Project\WarShips\WarShips.Common\bin\Debug\net8.0\WarShips.Common.exe
+C:\Program1\Project\WarShips\WarShips.Common\bin\Debug\net8.0\WarShips.Common.deps.json
+C:\Program1\Project\WarShips\WarShips.Common\bin\Debug\net8.0\WarShips.Common.runtimeconfig.json
+C:\Program1\Project\WarShips\WarShips.Common\bin\Debug\net8.0\WarShips.Common.dll
+C:\Program1\Project\WarShips\WarShips.Common\bin\Debug\net8.0\WarShips.Common.pdb
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.AssemblyInfoInputs.cache
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.AssemblyInfo.cs
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.csproj.CoreCompileInputs.cache
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.dll
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\refint\WarShips.Common.dll
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.pdb
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\WarShips.Common.genruntimeconfig.cache
+C:\Program1\Project\WarShips\WarShips.Common\obj\Debug\net8.0\ref\WarShips.Common.dll
